@@ -7,3 +7,5 @@ Simple way to convert **Youtube** Song to Lo-Fi version of that song just from i
 
 ## Contributions are appreciated 👍
 Hosted on Streamlit
+## Stargazers over time
+[![Stargazers over time](https://starchart.cc/bee-san/Ciphey.svg?variant=adaptive)](https://starchart.cc/bee-san/Ciphey)
